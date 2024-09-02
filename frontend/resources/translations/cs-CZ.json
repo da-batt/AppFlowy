@@ -187,7 +187,8 @@
     "dragRow": "Dlou",
     "viewDataBase": "Zobrazit databázi",
     "referencePage": "Zdroj",
-    "addBlockBelow": "Přidat blok pod"
+    "addBlockBelow": "Přidat blok pod",
+    "aiGenerate": "Generovat"
   },
   "sideBar": {
     "closeSidebar": "Zavřít postranní panel",
@@ -197,7 +198,11 @@
     "clickToHidePersonal": "Kliknutím schováte sekci Osobní",
     "clickToHideFavorites": "Kliknutím schováte sekci Oblíbené",
     "addAPage": "Přidat stránku",
-    "recent": "Nedávné"
+    "recent": "Nedávné",
+    "today": "Dnes",
+    "thisWeek": "Tento týden",
+    "lastViewed": "Naposledy zobrazeno",
+    "removeSuccess": "Úspěšně smazáno"
   },
   "notifications": {
     "export": {
@@ -213,6 +218,7 @@
   },
   "button": {
     "ok": "OK",
+    "confirm": "Potvrdit",
     "done": "Hotovo",
     "cancel": "Zrušit",
     "signIn": "Přihlásit se",
@@ -237,7 +243,15 @@
     "removeFromFavorites": "Odstranit z oblíbených",
     "addToFavorites": "Přidat do oblíbených",
     "rename": "Přejmenovat",
-    "helpCenter": "Centrum pomoci"
+    "helpCenter": "Centrum pomoci",
+    "add": "Přidat",
+    "yes": "Ano",
+    "no": "Ne",
+    "logout": "Odhlásit se",
+    "deleteAccount": "Smazat účet",
+    "back": "Zpět",
+    "more": "Více",
+    "create": "Vytvořit"
   },
   "label": {
     "welcome": "Vítejte!",
@@ -261,6 +275,31 @@
   },
   "settings": {
     "title": "Nastavení",
+    "popupMenuItem": {
+      "settings": "Nastavení"
+    },
+    "accountPage": {
+      "menuLabel": "Můj účet",
+      "email": {
+        "title": "E-mail"
+      },
+      "login": {
+        "loginLabel": "Přihlásit se",
+        "logoutLabel": "Odhlásit se"
+      }
+    },
+    "workspacePage": {
+      "appearance": {
+        "title": "Vzhled",
+        "options": {
+          "light": "Světlý",
+          "dark": "Tmavý"
+        }
+      },
+      "theme": {
+        "title": "Motiv"
+      }
+    },
     "menu": {
       "appearance": "Vzhled",
       "language": "Jazyk",
