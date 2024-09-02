@@ -44,6 +44,9 @@
     "syncPromptMessage": "Synchronizace dat může chvilku trvat. Nezavírejte prosím tuto stránku.",
     "or": "NEBO",
     "signInWith": "Přihlásit přes:",
+    "alreadyHaveAnAccount": "Už máte účet?",
+    "logIn": "Přihlásit se",
+    "generalError": "Něco se pokazilo. Zkuste to znovu později",
     "LogInWithGoogle": "Přihlásit přes Google",
     "LogInWithGithub": "Přihlásit přes GitHub",
     "LogInWithDiscord": "Přihlásit přes Discord"
@@ -66,7 +69,11 @@
     "workInProgress": "Ji brzy",
     "markdown": "Markdown",
     "csv": "CSV",
-    "copyLink": "Kopírovat odkaz"
+    "copyLink": "Kopírovat odkaz",
+    "publish": "Zveřejnit",
+    "exportAsTab": "Exportovat jako",
+    "publishTab": "Zveřejnit",
+    "shareTab": "Sdílet"
   },
   "moreAction": {
     "small": "malé",
@@ -74,7 +81,10 @@
     "large": "velké",
     "fontSize": "Velikost písma",
     "import": "Importovat",
-    "moreOptions": "Ví"
+    "moreOptions": "Ví",
+    "wordCount": "Počet slov: {}",
+    "charCount": "Počet znaků: {}",
+    "createdAt": "Vytvořeno: {}"
   },
   "importPanel": {
     "textAndMarkdown": "Text a Markdown",
