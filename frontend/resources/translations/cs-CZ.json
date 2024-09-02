@@ -298,6 +298,19 @@
       },
       "theme": {
         "title": "Motiv"
+      },
+      "dateTime": {
+        "title": "Datum a čas"
+      },
+      "language": {
+        "title": "Jazyk"
+      }
+    },
+    "shortcutsPage": {
+      "keybindings": {
+        "alignLeft": "Zarovnat text doleva",
+        "alignCenter": "Zarovnat text na střed",
+        "alignRight": "Zarovnat text doprava"
       }
     },
     "menu": {
